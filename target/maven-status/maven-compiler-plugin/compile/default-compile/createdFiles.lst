@@ -1,0 +1,7 @@
+Server\CustomUtilities.class
+Server\Main.class
+Client\Main.class
+Server\Server.class
+Server\IWordCountServer.class
+Client\Client.class
+Client\IWordCountClient.class
